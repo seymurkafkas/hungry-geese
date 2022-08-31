@@ -22,4 +22,4 @@ def train_and_save(learning_configuration, model_file_path):
 
 
 if __name__ == "__main__":
-    train_and_save(LEARNING_CONFIG, "models")
+    train_and_save(LEARNING_CONFIG, "models/weights")
