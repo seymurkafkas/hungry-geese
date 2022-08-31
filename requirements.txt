@@ -1,0 +1,4 @@
+tensorflow
+kaggle_environments
+numpy
+tqdm
